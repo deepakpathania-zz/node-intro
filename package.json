@@ -1,0 +1,25 @@
+{
+  "name": "deepak-github",
+  "version": "1.0.1",
+  "description": "Fetches the number of repositories of the entered username along with name and description using github api",
+  "main": "github.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node github_module.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakpathania/node-intro.git"
+  },
+  "author": "Deepak Pathania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakpathania/node-intro/issues"
+  },
+  "homepage": "https://github.com/deepakpathania/node-intro#readme"
+}
